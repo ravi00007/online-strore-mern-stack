@@ -1,0 +1,27 @@
+{
+  "name": "mern-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi00007/online-strore-mern-stack.git"
+  },
+  "keywords": [
+    "its",
+    "backend",
+    "only"
+  ],
+  "author": "Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi00007/online-strore-mern-stack/issues"
+  },
+  "homepage": "https://github.com/ravi00007/online-strore-mern-stack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
